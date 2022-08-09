@@ -8,6 +8,12 @@
 ## 🤝Instalar dependencias
 npm install
 
+## Dependencias utilizadas: 
+autocannon /axios/ babel-cli/ bcrypt/ body-parser/compression
+connect-mongo/cookie-parser/cors/ dotenv/express/ express-handlebars
+express-session/jsonwebtoken/knex/log4js/mongoose/multer/nodemailer
+nodemon/normalizr/passport/socket.io/twilio/typescript/
+
 ## ✨Iniciar el servidor
 npm run start
 
