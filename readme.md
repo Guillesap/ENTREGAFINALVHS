@@ -18,6 +18,10 @@ nodemon/normalizr/passport/socket.io/twilio/typescript/
 ## ✨Iniciar el servidor
 npm run start
 
+## Visualización proyecto
+A fin de visualizar el proyecto VHS, registrarse o ingresar con usuario de prueba, previamente registrado:
+Correo: cris@hotmail.com   password: boquita, a fin de acceder a la pantalla inicial.
+
 ## 🏠 [Homepage](https://github.com/Guillesap)
 
 ## 📝 License
